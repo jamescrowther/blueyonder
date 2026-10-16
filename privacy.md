@@ -6,7 +6,7 @@ title: BlueYonder Privacy Policy
 
 *Last updated: 16 October 2026*
 
-BlueYonder is a TV guide and player for Apple TV, iPhone, iPad and Mac, made by **Crow & Hawk
+BlueYonder is a TV guide and player for Apple TV, iPhone, iPad, Mac and Amazon Fire TV, made by **Crow & Hawk
 Technologies**, the trading name of James Crowther, in the United Kingdom ("we", "us"). This policy
 explains what happens to your information when you use it. We're responsible for the app under UK
 data protection law (UK GDPR).
@@ -20,7 +20,7 @@ analytics, no advertising and no tracking. Nothing you do in the app is sent to 
 
 To work, BlueYonder saves the following **on your device only**:
 
-- the sign-in details for your TV provider (kept securely in your device's Keychain)
+- the sign-in details for your TV provider (kept securely in the Keychain on Apple devices, and in the app's private storage on Fire TV)
 - your profiles, favourite channels, recently watched channels and Continue Watching
 - your settings, such as your Their Way line-up
 
