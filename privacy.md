@@ -47,8 +47,8 @@ your sign-in details (other than to your own provider), or anything about what y
 
 ## Children
 
-BlueYonder isn't intended for children. Adult categories are hidden unless you choose to show
-them in Settings.
+BlueYonder isn't intended for young children. Adult channels, films and categories from your
+provider are always hidden.
 
 ## Changes
 
