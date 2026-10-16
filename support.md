@@ -4,7 +4,7 @@ title: BlueYonder Support
 
 # BlueYonder Support
 
-BlueYonder is a TV guide and player for your own IPTV service, on Apple TV, iPhone, iPad and Mac,
+BlueYonder is a TV guide and player for your own IPTV service, on Apple TV, iPhone, iPad, Mac and Amazon Fire TV,
 from Crow & Hawk Technologies.
 
 ## Getting started
